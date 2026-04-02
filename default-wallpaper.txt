@@ -1,0 +1,2 @@
+This is a placeholder for the default wallpaper.
+The app will use a black gradient background if this image is not found.
